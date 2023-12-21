@@ -7,8 +7,8 @@
 
 <div align="center">
 <a target="_blank" href="https://twitter.com/XxElInmortalXx1">Twitter</a> ·
-<a target="_blank" href="https://www.linkedin.com/in/andres-eduardo-rosas-alpiri-b6635522a/">LinkedIn</a> ·
-<a target="_blank" href="https://frontend-portfolio-ge7v0ealk.vercel.app/">website</a>
+<a target="_blank" href="https://www.linkedin.com/in/andres-eduardo-rosas-alpiri-b6635522a">LinkedIn</a> ·
+<a target="_blank" href="https://frontend-portfolio-andres-eduardo-rosas-alpiris-projects.vercel.app">website</a>
 </div>
 
 <br>
