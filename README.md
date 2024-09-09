@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ganextunegocioenlaweb.com/_astro/ganex_svg.DbznWmSJ_Z1iYl5V.svg" align="center" />
+<img src="https://scontent.fsrz1-1.fna.fbcdn.net/v/t39.30808-6/434092584_122100196436254669_866048125095168936_n.png?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=DKhZh3hFlFUQ7kNvgH8aW1Y&_nc_ht=scontent.fsrz1-1.fna&oh=00_AYBv63Gyfx7ifrG-qw-pob-SN0lx0YmtzDl_aL5AvBLPTw&oe=66E52AE3" align="center" style="aspect-ratio: 3 / 2" />
 </div>  
 
 ## <div align="center">-- Andres Eduardo --</div>
